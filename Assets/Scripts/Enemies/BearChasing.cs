@@ -44,7 +44,8 @@ public class BearChasing : MonoBehaviour
 
         if (isGrounded == false)
         {
-            rb.AddForce(Physics.gravity / extraValue);
+            print(Physics.gravity);
+            rb.gravityScale = 5;
         }
     }
 

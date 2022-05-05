@@ -12,6 +12,7 @@ public class BearDestroyObject : MonoBehaviour
     {
         if (other.tag == "Bear")
         {
+            print("karhu osuu");
             StartCoroutine(DestroyObject());
         }
     }
