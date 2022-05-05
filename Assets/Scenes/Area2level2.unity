@@ -7178,6 +7178,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4285241465776223616, guid: 048a83fc13b7c044c9d69e0a1b53c27d, type: 3}
+      propertyPath: m_Size.y
+      value: 5.1428704
+      objectReference: {fileID: 0}
+    - target: {fileID: 4285241465776223616, guid: 048a83fc13b7c044c9d69e0a1b53c27d, type: 3}
+      propertyPath: m_Offset.y
+      value: 1.3267457
+      objectReference: {fileID: 0}
     - target: {fileID: 4285241465776223618, guid: 048a83fc13b7c044c9d69e0a1b53c27d, type: 3}
       propertyPath: m_RootOrder
       value: 32
@@ -112028,19 +112036,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1947636354}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 446166127}
-        m_TargetAssemblyTypeName: MainMenuScript, Assembly-CSharp
-        m_MethodName: ExitToMainMenu
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &1947636354
 MonoBehaviour:
   m_ObjectHideFlags: 0
