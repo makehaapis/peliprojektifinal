@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Trap
+  - CheckPoint
+  - Circle
+  - NextLevel
+  - Lvl0tolvl1
+  - Lvl1tolvl0
+  - Lvl2tolvl1
+  - Lvl1tolvl2
+  - Lvl0tolvl2
+  - Lvl2tolvl0
+  - Level2Btn
+  - Level3Btn
+  - LockedLevel2Btn
+  - LockedLevel3Btn
+  - Lvl2toLvl3
+  - Lvl3toLv4
+  - BlueObject
+  - RedObject
+  - Lvl4toLvl5
+  - Area1level1totalo
+  - TalotoArea1level1
+  - Enemy
+  - Bullet
+  - Dog
+  - Saw
+  - Info1
+  - Info2
+  - Lvl1Completed
+  - Info3
+  - HealthBar
+  - Potion
+  - DogFood
+  - Lvl2Completed
+  - Lvl3Completed
+  - Lvl4Completed
+  - Lvl5Completed
+  - Lvl6Completed
+  - Bear
+  - HeavyRock
+  - Info4
+  - Info5
+  - Info6
+  - Info7
+  - KarhuVaroitus
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Objects
+  - Man
+  - Dog
+  - Movable objects
+  - Spikes
+  - BearArea
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Luodinlahto
+    uniqueID: 486128811
+    locked: 0
+  - name: Tausta
+    uniqueID: 720615567
+    locked: 0
+  - name: Tausta-yksityiskohdat
+    uniqueID: 3072345179
+    locked: 0
+  - name: Maa-Takkimmainen
+    uniqueID: 3756410607
+    locked: 0
+  - name: "Maa-Keskimm\xE4inen"
+    uniqueID: 1130539125
+    locked: 0
+  - name: vuoret2
+    uniqueID: 2431832937
+    locked: 0
+  - name: Maa-Etummainen
+    uniqueID: 2374202697
+    locked: 0
+  - name: Spikes
+    uniqueID: 1860305889
+    locked: 0
+  - name: Objektit
+    uniqueID: 1085315261
+    locked: 0
+  - name: Movable objects
+    uniqueID: 557938107
+    locked: 0
+  - name: Player
+    uniqueID: 1135069663
+    locked: 0
+  - name: Dog
+    uniqueID: 2111614449
+    locked: 0
+  - name: Enemy
+    uniqueID: 3159705891
+    locked: 0
+  - name: "Siirtym\xE4"
+    uniqueID: 569757111
+    locked: 0
+  - name: Etuala
+    uniqueID: 1217114897
+    locked: 0
