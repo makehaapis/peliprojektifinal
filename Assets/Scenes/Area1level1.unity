@@ -2977,6 +2977,7 @@ GameObject:
   - component: {fileID: 542441574}
   - component: {fileID: 542441576}
   - component: {fileID: 542441575}
+  - component: {fileID: 542441577}
   m_Layer: 10
   m_Name: Spike_Up (3)
   m_TagString: Trap
@@ -3088,6 +3089,27 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &542441577
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 542441573}
+  m_BodyType: 2
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &555454379
 GameObject:
   m_ObjectHideFlags: 0
@@ -23252,6 +23274,7 @@ GameObject:
   - component: {fileID: 1616367839}
   - component: {fileID: 1616367841}
   - component: {fileID: 1616367840}
+  - component: {fileID: 1616367842}
   m_Layer: 10
   m_Name: Spike_Up (2)
   m_TagString: Trap
@@ -23363,6 +23386,27 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &1616367842
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1616367838}
+  m_BodyType: 2
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &1616817344
 GameObject:
   m_ObjectHideFlags: 0
@@ -23450,6 +23494,7 @@ GameObject:
   - component: {fileID: 1629381977}
   - component: {fileID: 1629381979}
   - component: {fileID: 1629381978}
+  - component: {fileID: 1629381980}
   m_Layer: 10
   m_Name: Spike_Up (1)
   m_TagString: Trap
@@ -23561,6 +23606,27 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!50 &1629381980
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1629381976}
+  m_BodyType: 2
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &1641070659
 GameObject:
   m_ObjectHideFlags: 0
@@ -27014,6 +27080,32 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d66531d2007181148a08f3eaf1c652d8, type: 3}
+--- !u!1 &5327559255552475354 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5327559256155457342, guid: d66531d2007181148a08f3eaf1c652d8, type: 3}
+  m_PrefabInstance: {fileID: 5327559255552475353}
+  m_PrefabAsset: {fileID: 0}
+--- !u!50 &5327559255552475355
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5327559255552475354}
+  m_BodyType: 2
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1001 &7639289978680570126
 PrefabInstance:
   m_ObjectHideFlags: 0
