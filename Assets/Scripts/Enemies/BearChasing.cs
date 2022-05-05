@@ -19,6 +19,8 @@ public class BearChasing : MonoBehaviour
 
     public float extraValue;
 
+    [SerializeField] AudioSource bearSound;
+
     void Start()
     {
         player = GameObject.FindGameObjectWithTag("Player");
@@ -52,6 +54,7 @@ public class BearChasing : MonoBehaviour
     private void Chase()
     {
         transform.position = Vector3.MoveTowards(transform.position, new Vector3(player.transform.position.x, transform.position.y, transform.position.z), runningspeed * Time.deltaTime);
+        bearSound.Play();
     }
 
 }

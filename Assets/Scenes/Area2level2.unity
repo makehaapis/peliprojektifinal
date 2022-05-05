@@ -12849,6 +12849,10 @@ PrefabInstance:
       propertyPath: deathSound
       value: 
       objectReference: {fileID: 639063095}
+    - target: {fileID: 3309346903494435430, guid: 03015f7fb152cbd4eae09e5ee062ccc5, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
     - target: {fileID: 6962041806801846476, guid: 03015f7fb152cbd4eae09e5ee062ccc5, type: 3}
       propertyPath: m_LocalPosition.x
       value: 16.95
@@ -15221,6 +15225,10 @@ PrefabInstance:
       propertyPath: deathSound
       value: 
       objectReference: {fileID: 2050417577}
+    - target: {fileID: 3309346903494435430, guid: 03015f7fb152cbd4eae09e5ee062ccc5, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
     - target: {fileID: 6962041806801846476, guid: 03015f7fb152cbd4eae09e5ee062ccc5, type: 3}
       propertyPath: m_LocalPosition.x
       value: 16.95
